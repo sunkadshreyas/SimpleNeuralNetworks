@@ -7,3 +7,8 @@ Classify images of clothing. There are 10 types of clothing items.<br />
 Training data consists of 60,000 images (grayscale).<br />
 CNN is also implemented for the same task. <br />
 CNN architecture : Two layers of Conv2D and Max Pooling followed by Fully Connected Layer and Softmax Layer.<br />
+
+2) CNN to classify imaages of dogs and cats.<br/>
+The images are of different sizes and are colored pictures, hence ImageGenerator class is used.<br/>
+Data Augmentation is also done with rotation, flipping and zooming.<br/>
+Visualization of training and validation accuracy and loss is also done.<br/>
