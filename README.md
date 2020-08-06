@@ -13,7 +13,7 @@ The images are of different sizes and are colored pictures, hence ImageGenerator
 Data Augmentation is also done with rotation, flipping and zooming.<br/>
 Visualization of training and validation accuracy and loss is also done.<br/>
 
-3) Multi Class Image Classification on CIFAR 10.
-50,000 images belonging to 10 classes classified using PyTorch.
-Model Description : LeNet Model with ReLU activation and MaxPooling.
-Loss function : Cross Entropy and Optimizer : SGD
+3) Multi Class Image Classification on CIFAR 10.<br />
+50,000 images belonging to 10 classes classified using PyTorch.<br/>
+Model Description : LeNet Model with ReLU activation and MaxPooling.<br/>
+Loss function : Cross Entropy and Optimizer : SGD<br/>
