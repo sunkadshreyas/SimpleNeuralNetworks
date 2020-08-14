@@ -17,3 +17,9 @@ Visualization of training and validation accuracy and loss is also done.<br/>
 50,000 images belonging to 10 classes classified using PyTorch.<br/>
 Model Description : LeNet Model with ReLU activation and MaxPooling.<br/>
 Loss function : Cross Entropy and Optimizer : SGD<br/>
+
+4) Transfer Learning for Image Classification.<br />
+Task : Binary Image Classification on colored pictures.<br/>
+Inception V3 model with pre-trained layers.<br/>
+Adam Optimizer with Binary Crossentropy loss function.<br/>
+
