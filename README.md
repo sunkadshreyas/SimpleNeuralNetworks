@@ -23,3 +23,9 @@ Task : Binary Image Classification on colored pictures.<br/>
 Inception V3 model with pre-trained layers.<br/>
 Adam Optimizer with Binary Crossentropy loss function.<br/>
 
+5) Exploratory Data Analysis on Titanic dataset.<br/>
+Task : Predicting whether a passenger will survive on Titanic or not.<br/>
+Data Visualization of input features using Seaborn and Matplotlib.<br/>
+Comparision of various ML algorithms and their performance on validation sets.<br/>
+
+
